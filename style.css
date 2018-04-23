@@ -9,7 +9,7 @@
     		box-sizing: border-box;
     		border: 1px solid #ccc;
     		border-radius:5px;
-    		background-color: #f8f8f8;
+    		background-color: #f8f8f9;
     		resize: none;	
 		}
 		textarea {
@@ -19,11 +19,11 @@
     		box-sizing: border-box;
     		border: 2px solid #ccc;
     		border-radius:5px;
-		    background-color: #f8f8f8;
+		    background-color: #f8f8f9;
     		resize: none;
 		}
 		input[type=button], input[type=submit], input[type=reset] {
-			background-color: #ff4c4c;
+			background-color: #ff4c4d;
 			border: none;
     		color: white;
     		padding: 2px 10px;
